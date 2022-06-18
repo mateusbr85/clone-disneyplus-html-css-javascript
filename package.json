@@ -1,0 +1,19 @@
+{
+  "name": "clone-disneyplus-html-css",
+  "version": "1.0.0",
+  "description": "Criação do clone da pagina inicial do disney-plus, feito com CSS, HTML e JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusbr85/clone-disneyplus-html-css-javascript.git"
+  },
+  "author": "Mateus Veloso (MvDev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusbr85/clone-disneyplus-html-css-javascript/issues"
+  },
+  "homepage": "https://github.com/mateusbr85/clone-disneyplus-html-css-javascript#readme"
+}

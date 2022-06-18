@@ -1,0 +1,23 @@
+#app {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+    width: 100%;
+    height: 100vh;
+
+    padding: 45px 130px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* O cover serve para poder cortar a imagem caso ela vase da sua tela, gerando um redmensionamento de imagem */
+    background-position: center;
+    
+}
+
+
+main {
+    display: flex;
+    align-items: center;
+    /* o space-between serve para deixar com um espaçamento igual os entre as propriedades */
+    justify-content: space-between;
+}
